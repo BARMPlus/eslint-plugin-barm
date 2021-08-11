@@ -1,0 +1,37 @@
+{
+  "name": "eslint-plugin-barm",
+  "version": "1.2.5",
+  "description": "定制ESLint rule",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "eslint": "^7.32.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "https://github.com/BARMPlus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BARMPlus/eslint-plugin-barm.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "eslint-plugin-settimeout-no-number",
+    "eslint settimeout-no-number",
+    "eslint disabled number",
+    "ESLint 学习",
+    "ESLint 插件",
+    "ESLint 创建规则",
+    "ESLint 开发插件"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  }
+}
